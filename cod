@@ -1,0 +1,45 @@
+{
+    "room": "https://plug.dj/shegoshegando",
+    "author": "Sheg0",
+    "icon": null,
+    "css": "https://rawgit.com/VitinJSC/PEGAVISAO/master/room.css",
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": "#9F81F7",
+        "ambassador": "#89be6c",
+        "host": "#E44F4F",
+        "cohost": "#E44F4F",
+        "manager": "#BE9113",
+        "bouncer": "#05abe4",
+        "rdj": "#855bc5",
+        "subscriber": "#b78f38",
+        "silversubscriber": "#8694b2",
+        "friend": "#007a5a",
+        "user": "#007a5a"
+    },
+    "images": {
+        "background": "https://cdn.radiant.dj/rcs/bg/14.png",
+        "playback": null,
+        "admin": null,
+        "ambassador": null,
+        "host": "https://puu.sh/BVszH/f0d3132b1e.png",
+        "cohost": "https://puu.sh/BVszH/f0d3132b1e.png",
+        "manager": "https://puu.sh/wvXMf/5f4a3189eb.png",
+        "bouncer": "https://puu.sh/CNrhA/295d3cc63b.png",
+        "rdj": null,
+        "subscriber": null,
+        "silversubscriber": null
+    },
+    "emotes": {
+    	"emote_name": null
+    }
+}
